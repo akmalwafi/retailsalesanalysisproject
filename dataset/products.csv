@@ -1,0 +1,113 @@
+product_id,product_name,category,sub_category,brand,unit_price,cost_price
+P0001,BrightHome Smartphone,Electronics,Smartphone,NovaLite,1091.61,531.34
+P0002,AlphaTech Smartphone,Electronics,Smartphone,UrbanCo,176.05,119.51
+P0003,UrbanCo Laptop,Electronics,Laptop,NovaLite,938.14,458.36
+P0004,AlphaTech Laptop,Electronics,Laptop,NovaLite,187.03,120.18
+P0005,EcoBasics Wireless Earbuds,Electronics,Wireless Earbuds,NovaLite,1356.34,907.88
+P0006,Nexa Wireless Earbuds,Electronics,Wireless Earbuds,MajuMart,563.56,312.84
+P0007,MajuMart Smartwatch,Electronics,Smartwatch,NovaLite,1291.87,738.78
+P0008,UrbanCo Smartwatch,Electronics,Smartwatch,EcoBasics,2385.46,1361.81
+P0009,DailyChoice Power Bank,Electronics,Power Bank,BrightHome,72.85,51.64
+P0010,AlphaTech Power Bank,Electronics,Power Bank,UrbanCo,1710.21,1157.86
+P0011,AlphaTech Keyboard,Electronics,Keyboard,BrightHome,2463.73,1434.39
+P0012,SwiftFit Keyboard,Electronics,Keyboard,DailyChoice,1803.18,1166.66
+P0013,NovaLite Mouse,Electronics,Mouse,BrightHome,143.29,71.47
+P0014,UrbanCo Mouse,Electronics,Mouse,EcoBasics,2524.19,1794.54
+P0015,SwiftFit Tablet,Electronics,Tablet,MajuMart,246.04,160.33
+P0016,BrightHome Tablet,Electronics,Tablet,UrbanCo,398.44,213.79
+P0017,NovaLite T-Shirt,Fashion,T-Shirt,MajuMart,122.89,64.67
+P0018,AlphaTech T-Shirt,Fashion,T-Shirt,NovaLite,78.83,43.58
+P0019,Nexa Sneakers,Fashion,Sneakers,NovaLite,150.24,106.31
+P0020,EcoBasics Sneakers,Fashion,Sneakers,BrightHome,208.1,145.12
+P0021,DailyChoice Jeans,Fashion,Jeans,SwiftFit,20.23,14.7
+P0022,ZenCare Jeans,Fashion,Jeans,MajuMart,31.66,19.46
+P0023,AlphaTech Hoodie,Fashion,Hoodie,AlphaTech,38.65,21.13
+P0024,DailyChoice Hoodie,Fashion,Hoodie,EcoBasics,38.33,24.45
+P0025,MajuMart Cap,Fashion,Cap,AlphaTech,55.69,41.73
+P0026,UrbanCo Cap,Fashion,Cap,MajuMart,87.2,59.65
+P0027,EcoBasics Backpack,Fashion,Backpack,DailyChoice,129.23,89.67
+P0028,ZenCare Backpack,Fashion,Backpack,AlphaTech,20.13,11.74
+P0029,Nexa Jacket,Fashion,Jacket,UrbanCo,36.7,23.1
+P0030,BrightHome Jacket,Fashion,Jacket,SwiftFit,149.12,93.2
+P0031,ZenCare Watch,Fashion,Watch,Nexa,22.48,13.43
+P0032,BrightHome Watch,Fashion,Watch,AlphaTech,273.73,196.12
+P0033,UrbanCo Air Fryer,Home & Living,Air Fryer,BrightHome,528.24,325.96
+P0034,NovaLite Air Fryer,Home & Living,Air Fryer,MajuMart,641.23,395.68
+P0035,AlphaTech Bed Sheet,Home & Living,Bed Sheet,Nexa,138.59,72.57
+P0036,UrbanCo Bed Sheet,Home & Living,Bed Sheet,SwiftFit,332.12,203.23
+P0037,BrightHome Desk Lamp,Home & Living,Desk Lamp,NovaLite,697.58,491.48
+P0038,UrbanCo Desk Lamp,Home & Living,Desk Lamp,UrbanCo,17.97,12.89
+P0039,AlphaTech Storage Box,Home & Living,Storage Box,MajuMart,488.55,342.14
+P0040,AlphaTech Storage Box,Home & Living,Storage Box,MajuMart,29.57,17.99
+P0041,EcoBasics Vacuum Cleaner,Home & Living,Vacuum Cleaner,NovaLite,77.11,55.18
+P0042,NovaLite Vacuum Cleaner,Home & Living,Vacuum Cleaner,BrightHome,777.79,531.95
+P0043,SwiftFit Mug Set,Home & Living,Mug Set,ZenCare,155.73,102.99
+P0044,NovaLite Mug Set,Home & Living,Mug Set,NovaLite,730.43,439.65
+P0045,AlphaTech Chair,Home & Living,Chair,NovaLite,18.62,9.04
+P0046,Nexa Chair,Home & Living,Chair,NovaLite,321.1,154.75
+P0047,SwiftFit Table,Home & Living,Table,UrbanCo,19.02,9.29
+P0048,ZenCare Table,Home & Living,Table,NovaLite,248.69,138.07
+P0049,DailyChoice Cleanser,Beauty & Health,Cleanser,DailyChoice,61.34,41.42
+P0050,EcoBasics Cleanser,Beauty & Health,Cleanser,NovaLite,49.22,34.05
+P0051,SwiftFit Moisturizer,Beauty & Health,Moisturizer,EcoBasics,10.6,6.97
+P0052,Nexa Moisturizer,Beauty & Health,Moisturizer,UrbanCo,39.42,28.12
+P0053,UrbanCo Sunscreen,Beauty & Health,Sunscreen,NovaLite,9.66,6.54
+P0054,MajuMart Sunscreen,Beauty & Health,Sunscreen,EcoBasics,15.61,9.75
+P0055,UrbanCo Vitamin C Serum,Beauty & Health,Vitamin C Serum,ZenCare,15.06,9.11
+P0056,UrbanCo Vitamin C Serum,Beauty & Health,Vitamin C Serum,Nexa,126.52,89.97
+P0057,Nexa Shampoo,Beauty & Health,Shampoo,UrbanCo,85.55,53.55
+P0058,MajuMart Shampoo,Beauty & Health,Shampoo,EcoBasics,163.47,115.92
+P0059,EcoBasics Body Wash,Beauty & Health,Body Wash,Nexa,51.45,27.67
+P0060,EcoBasics Body Wash,Beauty & Health,Body Wash,BrightHome,13.88,6.67
+P0061,BrightHome Face Mask,Beauty & Health,Face Mask,EcoBasics,163.52,113.15
+P0062,AlphaTech Face Mask,Beauty & Health,Face Mask,ZenCare,96.34,65.24
+P0063,Nexa Lip Balm,Beauty & Health,Lip Balm,DailyChoice,13.31,7.46
+P0064,SwiftFit Lip Balm,Beauty & Health,Lip Balm,Nexa,106.44,52.84
+P0065,AlphaTech Dumbbell Set,Sports,Dumbbell Set,MajuMart,13.48,8.21
+P0066,MajuMart Dumbbell Set,Sports,Dumbbell Set,UrbanCo,13.9,8.58
+P0067,NovaLite Yoga Mat,Sports,Yoga Mat,EcoBasics,219.84,145.6
+P0068,NovaLite Yoga Mat,Sports,Yoga Mat,DailyChoice,20.44,14.72
+P0069,EcoBasics Badminton Racket,Sports,Badminton Racket,DailyChoice,219.48,142.05
+P0070,BrightHome Badminton Racket,Sports,Badminton Racket,NovaLite,199.54,112.82
+P0071,BrightHome Running Shoes,Sports,Running Shoes,EcoBasics,275.29,155.49
+P0072,ZenCare Running Shoes,Sports,Running Shoes,SwiftFit,22.05,14.43
+P0073,Nexa Resistance Band,Sports,Resistance Band,ZenCare,518.63,379.97
+P0074,UrbanCo Resistance Band,Sports,Resistance Band,UrbanCo,238.49,150.73
+P0075,MajuMart Water Bottle,Sports,Water Bottle,SwiftFit,181.67,112.02
+P0076,SwiftFit Water Bottle,Sports,Water Bottle,BrightHome,467.47,335.36
+P0077,BrightHome Sports Bag,Sports,Sports Bag,DailyChoice,26.61,18.76
+P0078,AlphaTech Sports Bag,Sports,Sports Bag,Nexa,580.2,404.93
+P0079,UrbanCo Skipping Rope,Sports,Skipping Rope,MajuMart,273.83,172.44
+P0080,AlphaTech Skipping Rope,Sports,Skipping Rope,MajuMart,53.06,38.22
+P0081,SwiftFit Notebook,Books & Stationery,Notebook,NovaLite,11.68,7.51
+P0082,AlphaTech Notebook,Books & Stationery,Notebook,ZenCare,58.3,41.41
+P0083,Nexa Planner,Books & Stationery,Planner,UrbanCo,10.38,7.53
+P0084,Nexa Planner,Books & Stationery,Planner,Nexa,50.07,35.25
+P0085,BrightHome Pen Set,Books & Stationery,Pen Set,MajuMart,16.02,8.26
+P0086,EcoBasics Pen Set,Books & Stationery,Pen Set,AlphaTech,67.28,42.32
+P0087,MajuMart Novel,Books & Stationery,Novel,AlphaTech,3.01,1.51
+P0088,AlphaTech Novel,Books & Stationery,Novel,MajuMart,3.15,1.83
+P0089,SwiftFit Textbook,Books & Stationery,Textbook,Nexa,24.61,12.09
+P0090,NovaLite Textbook,Books & Stationery,Textbook,UrbanCo,97.54,52.35
+P0091,EcoBasics Highlighter,Books & Stationery,Highlighter,DailyChoice,17.64,11.13
+P0092,NovaLite Highlighter,Books & Stationery,Highlighter,MajuMart,68.72,50.16
+P0093,EcoBasics Sticky Notes,Books & Stationery,Sticky Notes,Nexa,114.5,80.03
+P0094,EcoBasics Sticky Notes,Books & Stationery,Sticky Notes,NovaLite,6.76,4.93
+P0095,UrbanCo File Organizer,Books & Stationery,File Organizer,EcoBasics,11.33,7.85
+P0096,NovaLite File Organizer,Books & Stationery,File Organizer,NovaLite,92.0,65.49
+P0097,BrightHome Coffee,Groceries,Coffee,NovaLite,101.35,61.24
+P0098,EcoBasics Coffee,Groceries,Coffee,SwiftFit,11.26,7.41
+P0099,BrightHome Chocolate,Groceries,Chocolate,SwiftFit,15.33,7.65
+P0100,AlphaTech Chocolate,Groceries,Chocolate,SwiftFit,64.08,37.67
+P0101,BrightHome Cereal,Groceries,Cereal,MajuMart,132.8,67.88
+P0102,Nexa Cereal,Groceries,Cereal,UrbanCo,53.21,39.67
+P0103,SwiftFit Instant Noodles,Groceries,Instant Noodles,EcoBasics,55.96,32.08
+P0104,EcoBasics Instant Noodles,Groceries,Instant Noodles,DailyChoice,57.65,35.63
+P0105,EcoBasics Cooking Oil,Groceries,Cooking Oil,Nexa,9.27,4.56
+P0106,NovaLite Cooking Oil,Groceries,Cooking Oil,SwiftFit,43.47,30.33
+P0107,SwiftFit Rice Pack,Groceries,Rice Pack,DailyChoice,31.16,22.94
+P0108,BrightHome Rice Pack,Groceries,Rice Pack,AlphaTech,18.39,13.04
+P0109,EcoBasics Snack Box,Groceries,Snack Box,BrightHome,17.97,10.61
+P0110,EcoBasics Snack Box,Groceries,Snack Box,MajuMart,48.88,25.99
+P0111,AlphaTech Tea,Groceries,Tea,Nexa,59.31,33.29
+P0112,DailyChoice Tea,Groceries,Tea,DailyChoice,17.48,9.38

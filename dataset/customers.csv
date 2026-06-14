@@ -1,0 +1,501 @@
+customer_id,full_name,gender,age,state,city,signup_date,membership_type,acquisition_channel
+C00001,Aisyah Salleh,Female,50,Terengganu,Kemaman,2025-04-20,Silver,Marketplace
+C00002,Wafi Aziz,Male,33,Johor,Batu Pahat,2025-02-17,Silver,Facebook Ads
+C00003,Farhan Rahman,Male,57,Selangor,Petaling Jaya,2025-09-01,Gold,Organic Search
+C00004,Amira Tan,Female,42,Sarawak,Kuching,2026-01-03,Silver,Facebook Ads
+C00005,Wafi Lee,Male,45,Selangor,Shah Alam,2026-02-03,Bronze,Marketplace
+C00006,Aina Zainal,Female,26,Penang,Georgetown,2025-08-22,Gold,Email Campaign
+C00007,Aisyah Wong,Female,53,Sabah,Sandakan,2026-03-02,Silver,Facebook Ads
+C00008,Aisyah Ibrahim,Female,51,Penang,Bukit Mertajam,2026-01-28,Silver,Facebook Ads
+C00009,Aisyah Aziz,Female,39,Johor,Muar,2025-05-20,Bronze,Referral
+C00010,Farhan Ismail,Male,27,Penang,Bayan Lepas,2025-12-22,Silver,Organic Search
+C00011,Amira Yusof,Female,21,Sabah,Sandakan,2025-08-01,Bronze,TikTok Ads
+C00012,Dina Lee,Female,18,Selangor,Subang Jaya,2025-09-02,Gold,Instagram Ads
+C00013,Amira Zainal,Female,32,Sabah,Tawau,2026-04-05,Silver,Instagram Ads
+C00014,Aisyah Rahman,Female,43,Kelantan,Pasir Mas,2025-12-09,Silver,Marketplace
+C00015,Nurul Wong,Female,43,Sabah,Kota Kinabalu,2026-04-10,Silver,Email Campaign
+C00016,Hakim Tan,Male,47,Kelantan,Kota Bharu,2026-03-20,Bronze,Instagram Ads
+C00017,Sofia Hassan,Female,42,Terengganu,Dungun,2025-06-22,Bronze,Marketplace
+C00018,Hana Singh,Female,52,Kuala Lumpur,Wangsa Maju,2025-01-10,Bronze,Instagram Ads
+C00019,Wafi Aziz,Male,30,Selangor,Shah Alam,2025-05-07,Gold,Referral
+C00020,Irfan Ismail,Male,54,Terengganu,Kemaman,2025-02-28,Gold,TikTok Ads
+C00021,Sofia Ismail,Female,25,Sarawak,Sibu,2026-01-18,Gold,Facebook Ads
+C00022,Siti Wong,Female,42,Selangor,Klang,2025-10-22,Silver,Email Campaign
+C00023,Hakim Wong,Male,37,Penang,Georgetown,2025-12-23,Gold,Referral
+C00024,Syafiq Lim,Male,45,Selangor,Klang,2025-09-30,Silver,Organic Search
+C00025,Aina Singh,Female,45,Kelantan,Pasir Mas,2025-02-24,Platinum,Email Campaign
+C00026,Izzati Ismail,Female,51,Kelantan,Kota Bharu,2026-01-11,Platinum,Instagram Ads
+C00027,Aisyah Omar,Female,33,Sarawak,Miri,2025-06-15,Gold,Organic Search
+C00028,Aisyah Hassan,Female,60,Terengganu,Kemaman,2025-11-09,Silver,Organic Search
+C00029,Sofia Ismail,Female,34,Terengganu,Kuala Terengganu,2025-07-01,Bronze,Referral
+C00030,Farah Rahman,Female,33,Sabah,Kota Kinabalu,2025-02-13,Silver,TikTok Ads
+C00031,Haziq Salleh,Male,19,Terengganu,Dungun,2026-02-10,Bronze,Facebook Ads
+C00032,Izzati Hassan,Female,53,Johor,Batu Pahat,2025-08-31,Silver,TikTok Ads
+C00033,Sofia Lee,Female,34,Terengganu,Dungun,2025-06-06,Bronze,Email Campaign
+C00034,Zul Aziz,Male,30,Sabah,Tawau,2025-04-05,Bronze,TikTok Ads
+C00035,Izzati Wong,Female,24,Sabah,Tawau,2025-05-25,Gold,Instagram Ads
+C00036,Zul Ismail,Male,52,Johor,Johor Bahru,2025-12-29,Bronze,Organic Search
+C00037,Faiz Ibrahim,Male,18,Perak,Kuala Kangsar,2025-02-22,Silver,TikTok Ads
+C00038,Aisyah Yusof,Female,48,Perak,Ipoh,2025-05-10,Bronze,Organic Search
+C00039,Aisyah Aziz,Female,21,Sarawak,Sibu,2025-12-18,Bronze,Marketplace
+C00040,Siti Hassan,Female,56,Kuala Lumpur,Wangsa Maju,2025-11-07,Gold,Facebook Ads
+C00041,Aisyah Salleh,Female,54,Johor,Kluang,2025-06-06,Silver,Referral
+C00042,Irfan Tan,Male,23,Penang,Bukit Mertajam,2025-12-05,Bronze,Facebook Ads
+C00043,Farhan Rahman,Male,56,Kelantan,Pasir Mas,2025-12-19,Silver,Organic Search
+C00044,Danish Lee,Male,32,Johor,Kluang,2025-02-06,Gold,Marketplace
+C00045,Azim Aziz,Male,27,Sabah,Kota Kinabalu,2025-11-28,Gold,Marketplace
+C00046,Hakim Rahman,Male,54,Perak,Tapah,2025-11-01,Gold,TikTok Ads
+C00047,Rizal Lee,Male,50,Johor,Kluang,2025-05-20,Silver,TikTok Ads
+C00048,Syafiq Rahman,Male,56,Kelantan,Tanah Merah,2025-06-15,Bronze,Organic Search
+C00049,Wafi Singh,Male,35,Sarawak,Sibu,2025-01-11,Silver,Marketplace
+C00050,Rizal Zainal,Male,55,Terengganu,Dungun,2025-04-03,Silver,Marketplace
+C00051,Siti Salleh,Female,38,Kedah,Sungai Petani,2025-06-20,Silver,Marketplace
+C00052,Zul Omar,Male,43,Terengganu,Dungun,2025-12-06,Gold,Referral
+C00053,Rizal Aziz,Male,25,Kedah,Sungai Petani,2025-06-15,Platinum,TikTok Ads
+C00054,Wafi Singh,Male,21,Sabah,Sandakan,2025-07-31,Bronze,Instagram Ads
+C00055,Maisarah Salleh,Female,53,Selangor,Petaling Jaya,2025-05-17,Bronze,Instagram Ads
+C00056,Izzati Salleh,Female,56,Kuala Lumpur,Cheras,2025-11-19,Gold,Email Campaign
+C00057,Danish Zainal,Male,32,Selangor,Subang Jaya,2025-02-17,Platinum,Organic Search
+C00058,Siti Tan,Female,36,Perak,Kuala Kangsar,2026-01-02,Silver,Instagram Ads
+C00059,Aisyah Salleh,Female,27,Penang,Bayan Lepas,2025-10-10,Silver,Referral
+C00060,Hakim Ibrahim,Male,50,Kelantan,Pasir Mas,2026-02-08,Bronze,Organic Search
+C00061,Izzati Ibrahim,Female,49,Sarawak,Sibu,2025-12-04,Gold,TikTok Ads
+C00062,Sofia Yusof,Female,47,Sabah,Tawau,2025-07-13,Gold,Marketplace
+C00063,Haziq Hassan,Male,44,Sarawak,Miri,2025-04-30,Bronze,Email Campaign
+C00064,Izzati Lim,Female,59,Kelantan,Pasir Mas,2025-12-06,Platinum,TikTok Ads
+C00065,Farhan Zainal,Male,24,Sarawak,Miri,2026-03-22,Gold,TikTok Ads
+C00066,Faiz Salleh,Male,59,Selangor,Petaling Jaya,2025-07-29,Platinum,Organic Search
+C00067,Hana Yusof,Female,59,Sarawak,Sibu,2025-07-23,Bronze,Instagram Ads
+C00068,Sofia Tan,Female,57,Terengganu,Kemaman,2025-01-19,Bronze,Email Campaign
+C00069,Nadia Lee,Female,58,Kuala Lumpur,Wangsa Maju,2025-02-20,Silver,Organic Search
+C00070,Nurul Lee,Female,38,Johor,Johor Bahru,2025-01-24,Gold,Instagram Ads
+C00071,Sofia Omar,Female,44,Perak,Taiping,2025-09-29,Silver,Marketplace
+C00072,Farhan Ismail,Male,33,Kuala Lumpur,Wangsa Maju,2025-11-14,Silver,Referral
+C00073,Irfan Salleh,Male,60,Johor,Kluang,2025-05-11,Bronze,Marketplace
+C00074,Hana Tan,Female,46,Sabah,Kota Kinabalu,2025-02-07,Gold,Referral
+C00075,Maisarah Omar,Female,37,Johor,Kluang,2026-03-09,Bronze,TikTok Ads
+C00076,Siti Hassan,Female,54,Kelantan,Tanah Merah,2025-07-03,Bronze,Email Campaign
+C00077,Aina Singh,Female,54,Kelantan,Pasir Mas,2025-01-05,Gold,Marketplace
+C00078,Syafiq Lee,Male,32,Terengganu,Dungun,2026-02-02,Silver,Instagram Ads
+C00079,Wafi Hassan,Male,60,Sarawak,Miri,2025-12-14,Silver,Facebook Ads
+C00080,Wafi Tan,Male,46,Selangor,Klang,2026-02-08,Bronze,Instagram Ads
+C00081,Hakim Ibrahim,Male,29,Kedah,Kulim,2025-08-01,Bronze,Marketplace
+C00082,Farah Zainal,Female,48,Johor,Muar,2025-05-12,Platinum,Instagram Ads
+C00083,Siti Salleh,Female,32,Kuala Lumpur,Setapak,2026-01-22,Gold,Email Campaign
+C00084,Farah Yusof,Female,34,Kuala Lumpur,Wangsa Maju,2025-01-08,Silver,TikTok Ads
+C00085,Maisarah Lee,Female,58,Johor,Kluang,2026-02-26,Gold,Organic Search
+C00086,Rizal Rahman,Male,57,Sarawak,Sibu,2025-06-17,Bronze,Organic Search
+C00087,Izzati Ibrahim,Female,20,Kelantan,Kota Bharu,2025-03-13,Gold,Instagram Ads
+C00088,Siti Aziz,Female,47,Penang,Butterworth,2025-07-18,Silver,Email Campaign
+C00089,Dina Lee,Female,24,Perak,Kuala Kangsar,2025-12-02,Gold,Referral
+C00090,Hana Rahman,Female,46,Kedah,Alor Setar,2025-08-16,Platinum,Marketplace
+C00091,Siti Tan,Female,59,Kedah,Kulim,2026-04-07,Silver,TikTok Ads
+C00092,Nadia Aziz,Female,31,Terengganu,Kuala Terengganu,2025-12-06,Silver,Referral
+C00093,Aiman Lim,Male,54,Kedah,Alor Setar,2025-03-06,Bronze,Marketplace
+C00094,Syafiq Hassan,Male,27,Penang,Bukit Mertajam,2026-02-01,Gold,Referral
+C00095,Danish Singh,Male,34,Perak,Taiping,2025-10-04,Gold,Organic Search
+C00096,Farhan Rahman,Male,38,Kedah,Alor Setar,2025-10-29,Bronze,Instagram Ads
+C00097,Farhan Lee,Male,22,Kelantan,Tanah Merah,2025-02-28,Silver,Marketplace
+C00098,Farah Wong,Female,32,Kuala Lumpur,Wangsa Maju,2025-09-15,Gold,Organic Search
+C00099,Aisyah Tan,Female,43,Selangor,Shah Alam,2025-09-03,Silver,Organic Search
+C00100,Izzati Salleh,Female,56,Kuala Lumpur,Cheras,2025-06-14,Bronze,Facebook Ads
+C00101,Dina Tan,Female,38,Sarawak,Sibu,2025-12-31,Silver,Referral
+C00102,Aisyah Zainal,Female,25,Sarawak,Miri,2025-02-20,Gold,Email Campaign
+C00103,Azim Salleh,Male,47,Penang,Bayan Lepas,2025-06-23,Silver,Email Campaign
+C00104,Zul Omar,Male,41,Kedah,Kulim,2025-05-11,Platinum,Email Campaign
+C00105,Siti Aziz,Female,24,Kuala Lumpur,Cheras,2025-08-10,Silver,Instagram Ads
+C00106,Faiz Rahman,Male,39,Sarawak,Sibu,2025-10-15,Silver,TikTok Ads
+C00107,Maisarah Lim,Female,36,Kelantan,Tanah Merah,2025-01-27,Silver,Instagram Ads
+C00108,Syafiq Zainal,Male,48,Penang,Butterworth,2025-12-03,Bronze,Organic Search
+C00109,Farah Yusof,Female,32,Kuala Lumpur,Bangsar,2025-10-21,Gold,Marketplace
+C00110,Syafiq Tan,Male,35,Johor,Johor Bahru,2025-04-03,Silver,Instagram Ads
+C00111,Sofia Rahman,Female,60,Perak,Taiping,2025-10-17,Silver,Facebook Ads
+C00112,Hakim Lee,Male,44,Sabah,Kota Kinabalu,2025-07-12,Silver,Facebook Ads
+C00113,Hana Lee,Female,23,Kedah,Kulim,2025-11-02,Gold,Facebook Ads
+C00114,Syafiq Rahman,Male,60,Kuala Lumpur,Bangsar,2025-08-15,Silver,Referral
+C00115,Amira Ibrahim,Female,45,Penang,Georgetown,2025-06-26,Bronze,Email Campaign
+C00116,Farah Tan,Female,43,Johor,Johor Bahru,2025-04-23,Platinum,Organic Search
+C00117,Irfan Ibrahim,Male,34,Penang,Butterworth,2026-01-27,Bronze,Organic Search
+C00118,Rizal Lee,Male,42,Kelantan,Kota Bharu,2025-03-08,Silver,Facebook Ads
+C00119,Siti Omar,Female,47,Selangor,Subang Jaya,2025-01-10,Gold,Marketplace
+C00120,Dina Omar,Female,58,Sarawak,Miri,2025-12-30,Silver,Organic Search
+C00121,Aina Yusof,Female,41,Perak,Kuala Kangsar,2026-03-02,Bronze,Marketplace
+C00122,Irfan Omar,Male,23,Sarawak,Miri,2025-09-26,Silver,Instagram Ads
+C00123,Nadia Yusof,Female,58,Perak,Ipoh,2025-09-19,Bronze,Referral
+C00124,Zul Yusof,Male,27,Perak,Taiping,2025-02-22,Bronze,Facebook Ads
+C00125,Wafi Aziz,Male,54,Perak,Kuala Kangsar,2025-08-26,Gold,TikTok Ads
+C00126,Maisarah Yusof,Female,48,Perak,Kuala Kangsar,2025-02-04,Silver,Instagram Ads
+C00127,Dina Rahman,Female,37,Kedah,Kulim,2025-02-07,Silver,Organic Search
+C00128,Zul Singh,Male,23,Johor,Johor Bahru,2025-11-27,Silver,Referral
+C00129,Aisyah Wong,Female,20,Sabah,Tawau,2026-04-04,Silver,Marketplace
+C00130,Zul Wong,Male,21,Terengganu,Kemaman,2025-03-19,Silver,Marketplace
+C00131,Izzati Aziz,Female,20,Sabah,Tawau,2025-03-30,Bronze,TikTok Ads
+C00132,Farah Zainal,Female,41,Sarawak,Kuching,2025-07-06,Gold,TikTok Ads
+C00133,Sofia Tan,Female,58,Sarawak,Kuching,2026-02-09,Silver,Organic Search
+C00134,Siti Zainal,Female,60,Kelantan,Pasir Mas,2025-05-10,Platinum,Referral
+C00135,Zul Aziz,Male,40,Sarawak,Sibu,2025-03-14,Bronze,Email Campaign
+C00136,Nurul Wong,Female,42,Kuala Lumpur,Bangsar,2025-10-14,Silver,Instagram Ads
+C00137,Wafi Lee,Male,60,Sabah,Kota Kinabalu,2025-11-27,Silver,Instagram Ads
+C00138,Zul Ibrahim,Male,49,Perak,Taiping,2025-06-24,Bronze,Facebook Ads
+C00139,Hakim Ibrahim,Male,39,Kuala Lumpur,Cheras,2025-12-05,Gold,Referral
+C00140,Syafiq Omar,Male,57,Perak,Taiping,2025-04-03,Gold,Facebook Ads
+C00141,Aina Omar,Female,33,Kedah,Kulim,2026-01-04,Platinum,Referral
+C00142,Izzati Lim,Female,33,Terengganu,Kuala Terengganu,2025-10-01,Bronze,Marketplace
+C00143,Nadia Yusof,Female,36,Sarawak,Miri,2025-08-25,Gold,Referral
+C00144,Nurul Singh,Female,34,Penang,Butterworth,2026-03-23,Bronze,TikTok Ads
+C00145,Farah Aziz,Female,23,Sabah,Kota Kinabalu,2025-05-26,Gold,Instagram Ads
+C00146,Farah Ismail,Female,32,Kelantan,Kota Bharu,2026-04-12,Gold,Instagram Ads
+C00147,Azim Rahman,Male,33,Kelantan,Tanah Merah,2025-07-11,Silver,Organic Search
+C00148,Nadia Rahman,Female,59,Kedah,Alor Setar,2026-03-06,Bronze,Facebook Ads
+C00149,Aiman Ibrahim,Male,26,Terengganu,Kemaman,2026-03-02,Gold,TikTok Ads
+C00150,Dina Rahman,Female,31,Kuala Lumpur,Cheras,2025-05-12,Gold,Referral
+C00151,Siti Lim,Female,25,Johor,Muar,2025-06-04,Bronze,TikTok Ads
+C00152,Siti Aziz,Female,19,Terengganu,Kemaman,2025-10-02,Silver,Referral
+C00153,Haziq Ismail,Male,57,Johor,Kluang,2025-01-01,Silver,Referral
+C00154,Nurul Tan,Female,51,Kuala Lumpur,Bangsar,2025-02-04,Silver,Marketplace
+C00155,Azim Singh,Male,42,Terengganu,Kuala Terengganu,2025-11-22,Platinum,Instagram Ads
+C00156,Zul Lim,Male,60,Kuala Lumpur,Bangsar,2025-05-04,Silver,Marketplace
+C00157,Nurul Rahman,Female,59,Kedah,Kulim,2025-06-23,Bronze,Marketplace
+C00158,Izzati Salleh,Female,47,Perak,Taiping,2025-02-02,Bronze,Facebook Ads
+C00159,Irfan Rahman,Male,43,Kedah,Sungai Petani,2025-09-21,Platinum,Referral
+C00160,Hana Rahman,Female,21,Penang,Bukit Mertajam,2025-07-02,Gold,Instagram Ads
+C00161,Siti Lim,Female,43,Kedah,Sungai Petani,2026-04-01,Silver,TikTok Ads
+C00162,Nurul Salleh,Female,51,Terengganu,Dungun,2026-02-13,Bronze,Organic Search
+C00163,Siti Omar,Female,36,Sarawak,Kuching,2025-10-07,Bronze,Organic Search
+C00164,Maisarah Ibrahim,Female,45,Johor,Kluang,2025-11-05,Bronze,TikTok Ads
+C00165,Aisyah Rahman,Female,35,Kedah,Kulim,2025-08-11,Silver,Marketplace
+C00166,Hakim Tan,Male,28,Kelantan,Pasir Mas,2025-09-20,Platinum,Facebook Ads
+C00167,Aina Ismail,Female,59,Kuala Lumpur,Setapak,2026-02-03,Silver,TikTok Ads
+C00168,Syafiq Ismail,Male,46,Terengganu,Dungun,2025-07-10,Gold,Referral
+C00169,Faiz Yusof,Male,35,Kelantan,Pasir Mas,2025-11-29,Bronze,Organic Search
+C00170,Haziq Ismail,Male,53,Terengganu,Kemaman,2025-07-18,Bronze,Marketplace
+C00171,Izzati Salleh,Female,49,Penang,Bukit Mertajam,2025-12-22,Bronze,Facebook Ads
+C00172,Rizal Ismail,Male,38,Terengganu,Kuala Terengganu,2026-02-19,Silver,Email Campaign
+C00173,Faiz Zainal,Male,28,Johor,Batu Pahat,2026-03-12,Silver,Email Campaign
+C00174,Zul Zainal,Male,26,Penang,Georgetown,2025-04-13,Bronze,TikTok Ads
+C00175,Zul Zainal,Male,53,Sarawak,Miri,2025-08-28,Bronze,Organic Search
+C00176,Danish Omar,Male,44,Terengganu,Kemaman,2025-07-30,Gold,Organic Search
+C00177,Zul Tan,Male,51,Kuala Lumpur,Wangsa Maju,2025-08-27,Bronze,Marketplace
+C00178,Farhan Omar,Male,25,Sabah,Kota Kinabalu,2026-03-02,Silver,Instagram Ads
+C00179,Farhan Yusof,Male,36,Penang,Bukit Mertajam,2025-09-23,Gold,Instagram Ads
+C00180,Wafi Zainal,Male,37,Johor,Muar,2025-11-17,Silver,Organic Search
+C00181,Syafiq Wong,Male,57,Perak,Taiping,2025-12-04,Silver,Referral
+C00182,Dina Rahman,Female,59,Selangor,Shah Alam,2025-01-24,Gold,Instagram Ads
+C00183,Syafiq Omar,Male,49,Sarawak,Sibu,2025-01-16,Gold,Referral
+C00184,Maisarah Ibrahim,Female,43,Terengganu,Kuala Terengganu,2026-02-17,Bronze,Organic Search
+C00185,Farhan Salleh,Male,31,Kelantan,Pasir Mas,2025-08-26,Bronze,Facebook Ads
+C00186,Izzati Yusof,Female,41,Kedah,Sungai Petani,2025-03-08,Silver,Organic Search
+C00187,Nadia Salleh,Female,33,Kuala Lumpur,Bangsar,2025-08-19,Bronze,Organic Search
+C00188,Amira Singh,Female,28,Sarawak,Miri,2025-05-08,Gold,Referral
+C00189,Nadia Lim,Female,47,Perak,Kuala Kangsar,2025-09-21,Silver,Instagram Ads
+C00190,Aina Aziz,Female,33,Kelantan,Tanah Merah,2025-08-23,Bronze,Instagram Ads
+C00191,Aiman Ibrahim,Male,59,Terengganu,Kemaman,2026-03-28,Silver,Instagram Ads
+C00192,Hakim Omar,Male,41,Perak,Tapah,2026-01-08,Gold,Instagram Ads
+C00193,Azim Rahman,Male,41,Sarawak,Sibu,2025-04-10,Silver,Organic Search
+C00194,Farah Salleh,Female,57,Sabah,Sandakan,2026-02-27,Silver,Organic Search
+C00195,Hakim Omar,Male,41,Kedah,Sungai Petani,2025-10-13,Gold,Facebook Ads
+C00196,Farah Rahman,Female,39,Selangor,Shah Alam,2025-03-12,Gold,Referral
+C00197,Nurul Wong,Female,57,Sabah,Kota Kinabalu,2025-06-17,Bronze,TikTok Ads
+C00198,Dina Yusof,Female,49,Sabah,Tawau,2025-09-30,Silver,Instagram Ads
+C00199,Aina Yusof,Female,44,Kedah,Kulim,2025-02-26,Silver,Marketplace
+C00200,Syafiq Salleh,Male,21,Johor,Muar,2026-01-05,Silver,Facebook Ads
+C00201,Nurul Singh,Female,25,Penang,Georgetown,2025-10-21,Bronze,TikTok Ads
+C00202,Amira Ismail,Female,44,Kelantan,Tanah Merah,2025-04-15,Silver,Referral
+C00203,Izzati Lee,Female,31,Selangor,Petaling Jaya,2025-09-23,Silver,Email Campaign
+C00204,Farah Omar,Female,52,Kedah,Alor Setar,2025-08-24,Bronze,Instagram Ads
+C00205,Dina Salleh,Female,53,Penang,Butterworth,2025-05-23,Bronze,Instagram Ads
+C00206,Izzati Hassan,Female,40,Terengganu,Dungun,2025-09-03,Silver,Marketplace
+C00207,Hana Aziz,Female,42,Sarawak,Sibu,2025-10-06,Gold,TikTok Ads
+C00208,Nurul Ibrahim,Female,23,Selangor,Klang,2026-01-01,Bronze,TikTok Ads
+C00209,Izzati Salleh,Female,52,Penang,Butterworth,2026-02-28,Bronze,Referral
+C00210,Nurul Aziz,Female,33,Sarawak,Sibu,2025-10-28,Bronze,Email Campaign
+C00211,Wafi Hassan,Male,39,Selangor,Shah Alam,2025-07-31,Silver,Organic Search
+C00212,Aiman Zainal,Male,48,Perak,Kuala Kangsar,2025-12-01,Silver,Facebook Ads
+C00213,Sofia Ibrahim,Female,54,Selangor,Shah Alam,2025-11-30,Bronze,Email Campaign
+C00214,Farhan Omar,Male,43,Perak,Ipoh,2026-03-05,Gold,Facebook Ads
+C00215,Aina Rahman,Female,36,Johor,Johor Bahru,2025-06-21,Silver,Email Campaign
+C00216,Nurul Singh,Female,30,Sabah,Sandakan,2025-05-20,Gold,Instagram Ads
+C00217,Haziq Salleh,Male,39,Johor,Muar,2025-01-08,Gold,Referral
+C00218,Farhan Wong,Male,38,Kelantan,Pasir Mas,2025-09-21,Bronze,Email Campaign
+C00219,Farhan Ismail,Male,18,Terengganu,Dungun,2025-05-08,Bronze,Facebook Ads
+C00220,Hana Yusof,Female,59,Johor,Johor Bahru,2025-05-14,Silver,Facebook Ads
+C00221,Wafi Aziz,Male,43,Terengganu,Dungun,2025-03-23,Silver,Email Campaign
+C00222,Izzati Aziz,Female,32,Johor,Batu Pahat,2025-11-11,Bronze,Facebook Ads
+C00223,Nurul Salleh,Female,53,Sarawak,Miri,2025-08-01,Gold,Marketplace
+C00224,Irfan Tan,Male,46,Sarawak,Kuching,2025-09-27,Silver,Instagram Ads
+C00225,Syafiq Aziz,Male,52,Selangor,Petaling Jaya,2025-10-21,Bronze,Instagram Ads
+C00226,Siti Tan,Female,50,Penang,Bayan Lepas,2025-02-16,Silver,Organic Search
+C00227,Nurul Zainal,Female,21,Kelantan,Pasir Mas,2025-10-16,Silver,Email Campaign
+C00228,Izzati Rahman,Female,18,Kelantan,Pasir Mas,2026-02-23,Silver,Referral
+C00229,Aiman Omar,Male,52,Kedah,Kulim,2025-02-02,Platinum,Organic Search
+C00230,Aina Ibrahim,Female,26,Kelantan,Kota Bharu,2026-01-29,Gold,Email Campaign
+C00231,Sofia Omar,Female,23,Terengganu,Dungun,2025-07-12,Silver,Email Campaign
+C00232,Wafi Singh,Male,52,Kedah,Alor Setar,2025-04-02,Silver,Facebook Ads
+C00233,Aiman Lim,Male,52,Selangor,Klang,2025-08-26,Silver,TikTok Ads
+C00234,Irfan Salleh,Male,30,Kedah,Alor Setar,2025-05-22,Gold,Email Campaign
+C00235,Aiman Lim,Male,19,Kelantan,Tanah Merah,2026-01-28,Bronze,Organic Search
+C00236,Syafiq Rahman,Male,21,Terengganu,Kemaman,2025-12-11,Bronze,Organic Search
+C00237,Aisyah Hassan,Female,21,Sabah,Kota Kinabalu,2026-01-22,Bronze,Instagram Ads
+C00238,Haziq Wong,Male,38,Kedah,Kulim,2025-11-03,Bronze,Facebook Ads
+C00239,Azim Ibrahim,Male,55,Johor,Johor Bahru,2025-10-13,Gold,Facebook Ads
+C00240,Farah Salleh,Female,60,Selangor,Klang,2025-11-26,Silver,Referral
+C00241,Izzati Omar,Female,42,Kelantan,Kota Bharu,2025-06-03,Bronze,Referral
+C00242,Nadia Singh,Female,27,Penang,Bukit Mertajam,2026-03-16,Gold,Organic Search
+C00243,Amira Zainal,Female,33,Sabah,Kota Kinabalu,2025-07-18,Bronze,Instagram Ads
+C00244,Rizal Singh,Male,30,Kedah,Alor Setar,2025-10-02,Bronze,TikTok Ads
+C00245,Hakim Hassan,Male,53,Sarawak,Sibu,2025-12-10,Bronze,Facebook Ads
+C00246,Hana Rahman,Female,25,Penang,Butterworth,2026-01-15,Silver,Marketplace
+C00247,Nadia Lee,Female,43,Sarawak,Sibu,2025-04-15,Gold,Referral
+C00248,Hana Omar,Female,40,Terengganu,Kemaman,2025-11-29,Bronze,Instagram Ads
+C00249,Aisyah Aziz,Female,31,Terengganu,Dungun,2026-04-14,Silver,TikTok Ads
+C00250,Syafiq Singh,Male,34,Penang,Butterworth,2025-01-09,Silver,Referral
+C00251,Hana Ismail,Female,42,Penang,Bukit Mertajam,2025-04-28,Silver,Facebook Ads
+C00252,Farah Tan,Female,49,Kedah,Sungai Petani,2026-01-26,Platinum,Email Campaign
+C00253,Aisyah Ismail,Female,52,Kedah,Alor Setar,2025-03-13,Silver,Referral
+C00254,Faiz Rahman,Male,18,Kuala Lumpur,Cheras,2026-01-27,Silver,Marketplace
+C00255,Hakim Lee,Male,50,Perak,Ipoh,2025-04-22,Silver,Organic Search
+C00256,Maisarah Salleh,Female,53,Selangor,Shah Alam,2025-09-30,Silver,Organic Search
+C00257,Farah Ibrahim,Female,29,Selangor,Subang Jaya,2026-02-17,Bronze,Organic Search
+C00258,Irfan Hassan,Male,40,Sarawak,Sibu,2025-05-10,Bronze,TikTok Ads
+C00259,Zul Omar,Male,32,Terengganu,Kemaman,2025-05-05,Bronze,Marketplace
+C00260,Wafi Singh,Male,42,Selangor,Shah Alam,2025-07-27,Silver,TikTok Ads
+C00261,Wafi Rahman,Male,45,Perak,Ipoh,2025-09-13,Silver,Instagram Ads
+C00262,Faiz Rahman,Male,54,Penang,Butterworth,2026-04-07,Silver,Organic Search
+C00263,Wafi Ibrahim,Male,20,Sabah,Tawau,2025-12-03,Bronze,Marketplace
+C00264,Aina Hassan,Female,43,Sarawak,Kuching,2026-01-21,Gold,Instagram Ads
+C00265,Syafiq Hassan,Male,52,Sarawak,Miri,2025-12-13,Bronze,Marketplace
+C00266,Haziq Lee,Male,24,Kuala Lumpur,Bangsar,2025-01-28,Silver,Marketplace
+C00267,Zul Wong,Male,38,Sarawak,Sibu,2025-07-23,Bronze,Instagram Ads
+C00268,Aisyah Hassan,Female,45,Kedah,Kulim,2025-07-12,Bronze,Referral
+C00269,Siti Lim,Female,33,Sarawak,Miri,2026-02-13,Silver,Organic Search
+C00270,Nurul Omar,Female,41,Perak,Kuala Kangsar,2025-06-12,Bronze,Organic Search
+C00271,Aisyah Yusof,Female,23,Johor,Johor Bahru,2025-03-09,Bronze,TikTok Ads
+C00272,Siti Rahman,Female,23,Kuala Lumpur,Bangsar,2025-10-11,Silver,Marketplace
+C00273,Amira Rahman,Female,23,Johor,Kluang,2025-07-18,Silver,Referral
+C00274,Syafiq Zainal,Male,26,Perak,Kuala Kangsar,2025-03-28,Bronze,Instagram Ads
+C00275,Nurul Aziz,Female,44,Perak,Kuala Kangsar,2025-05-22,Bronze,Marketplace
+C00276,Zul Ibrahim,Male,57,Penang,Bayan Lepas,2025-11-01,Bronze,Organic Search
+C00277,Danish Rahman,Male,57,Kelantan,Pasir Mas,2026-03-07,Silver,Marketplace
+C00278,Aisyah Yusof,Female,26,Kelantan,Tanah Merah,2025-11-01,Bronze,Referral
+C00279,Rizal Yusof,Male,36,Perak,Kuala Kangsar,2025-06-13,Silver,Email Campaign
+C00280,Dina Lim,Female,35,Penang,Bukit Mertajam,2025-07-12,Gold,TikTok Ads
+C00281,Siti Wong,Female,53,Penang,Butterworth,2025-12-16,Bronze,Email Campaign
+C00282,Izzati Hassan,Female,22,Terengganu,Dungun,2026-03-02,Gold,Marketplace
+C00283,Maisarah Salleh,Female,34,Perak,Tapah,2025-05-04,Silver,Email Campaign
+C00284,Amira Aziz,Female,55,Terengganu,Kemaman,2025-09-03,Silver,Referral
+C00285,Farah Rahman,Female,52,Kedah,Kulim,2026-04-04,Silver,Organic Search
+C00286,Irfan Tan,Male,57,Kedah,Alor Setar,2025-11-28,Bronze,Email Campaign
+C00287,Sofia Lim,Female,24,Kelantan,Kota Bharu,2025-01-06,Bronze,Referral
+C00288,Rizal Yusof,Male,55,Kelantan,Pasir Mas,2026-01-31,Silver,Facebook Ads
+C00289,Aina Salleh,Female,23,Kuala Lumpur,Bangsar,2025-08-01,Bronze,Email Campaign
+C00290,Zul Ibrahim,Male,31,Kedah,Sungai Petani,2026-02-06,Silver,Instagram Ads
+C00291,Siti Salleh,Female,37,Terengganu,Dungun,2025-02-04,Bronze,Email Campaign
+C00292,Aiman Singh,Male,28,Kedah,Kulim,2025-02-25,Gold,Email Campaign
+C00293,Faiz Ismail,Male,53,Sabah,Kota Kinabalu,2025-06-19,Silver,TikTok Ads
+C00294,Azim Tan,Male,60,Perak,Taiping,2025-11-24,Silver,Organic Search
+C00295,Rizal Wong,Male,31,Kelantan,Pasir Mas,2025-01-03,Bronze,Marketplace
+C00296,Syafiq Aziz,Male,38,Sabah,Kota Kinabalu,2025-07-07,Bronze,Organic Search
+C00297,Maisarah Singh,Female,38,Terengganu,Kemaman,2025-11-24,Silver,Referral
+C00298,Dina Aziz,Female,47,Kedah,Sungai Petani,2026-03-09,Silver,Marketplace
+C00299,Dina Wong,Female,25,Kuala Lumpur,Setapak,2025-06-10,Bronze,Organic Search
+C00300,Zul Lee,Male,56,Perak,Kuala Kangsar,2025-08-03,Bronze,TikTok Ads
+C00301,Nurul Salleh,Female,29,Sabah,Tawau,2025-11-27,Silver,TikTok Ads
+C00302,Nurul Ismail,Female,21,Kedah,Sungai Petani,2025-11-14,Gold,Organic Search
+C00303,Nurul Hassan,Female,59,Kelantan,Tanah Merah,2025-09-16,Silver,Email Campaign
+C00304,Amira Lee,Female,23,Terengganu,Dungun,2025-03-27,Silver,Marketplace
+C00305,Danish Rahman,Male,36,Johor,Muar,2025-10-03,Bronze,TikTok Ads
+C00306,Farah Zainal,Female,52,Kuala Lumpur,Cheras,2025-05-18,Gold,Instagram Ads
+C00307,Haziq Salleh,Male,24,Sabah,Kota Kinabalu,2025-08-06,Silver,Email Campaign
+C00308,Danish Singh,Male,40,Selangor,Subang Jaya,2025-05-15,Gold,Organic Search
+C00309,Siti Lim,Female,55,Penang,Butterworth,2026-02-20,Silver,Marketplace
+C00310,Nurul Wong,Female,31,Perak,Taiping,2026-02-21,Gold,Referral
+C00311,Farah Ibrahim,Female,38,Sarawak,Sibu,2025-03-28,Platinum,Instagram Ads
+C00312,Dina Ibrahim,Female,24,Sabah,Tawau,2026-02-22,Bronze,Marketplace
+C00313,Aina Ibrahim,Female,27,Perak,Taiping,2025-05-08,Silver,Marketplace
+C00314,Wafi Omar,Male,58,Terengganu,Kuala Terengganu,2025-10-23,Bronze,TikTok Ads
+C00315,Aisyah Aziz,Female,35,Kuala Lumpur,Wangsa Maju,2025-09-21,Silver,Instagram Ads
+C00316,Aisyah Yusof,Female,23,Sarawak,Kuching,2026-03-21,Silver,TikTok Ads
+C00317,Siti Lim,Female,45,Sabah,Sandakan,2025-04-22,Gold,TikTok Ads
+C00318,Sofia Singh,Female,54,Johor,Batu Pahat,2025-10-08,Bronze,Marketplace
+C00319,Sofia Tan,Female,58,Selangor,Shah Alam,2025-02-20,Gold,TikTok Ads
+C00320,Hakim Singh,Male,18,Perak,Kuala Kangsar,2025-08-22,Platinum,TikTok Ads
+C00321,Haziq Ismail,Male,35,Johor,Muar,2026-03-24,Bronze,Instagram Ads
+C00322,Siti Yusof,Female,58,Perak,Ipoh,2025-07-22,Bronze,Email Campaign
+C00323,Azim Tan,Male,31,Kuala Lumpur,Cheras,2025-01-01,Silver,Facebook Ads
+C00324,Faiz Tan,Male,39,Terengganu,Kuala Terengganu,2025-01-05,Gold,Marketplace
+C00325,Izzati Ismail,Female,42,Terengganu,Kuala Terengganu,2025-04-28,Bronze,Marketplace
+C00326,Hakim Yusof,Male,42,Kedah,Sungai Petani,2025-03-12,Gold,Marketplace
+C00327,Wafi Tan,Male,54,Perak,Ipoh,2025-09-29,Bronze,Email Campaign
+C00328,Rizal Yusof,Male,57,Penang,Butterworth,2025-07-30,Silver,Marketplace
+C00329,Hakim Aziz,Male,42,Perak,Ipoh,2025-10-29,Silver,TikTok Ads
+C00330,Nurul Hassan,Female,53,Johor,Johor Bahru,2025-05-08,Silver,Email Campaign
+C00331,Izzati Rahman,Female,56,Johor,Muar,2025-09-23,Silver,Email Campaign
+C00332,Hana Tan,Female,42,Selangor,Petaling Jaya,2025-09-11,Bronze,TikTok Ads
+C00333,Faiz Rahman,Male,42,Kedah,Sungai Petani,2025-03-09,Gold,Referral
+C00334,Sofia Zainal,Female,22,Perak,Kuala Kangsar,2026-01-30,Bronze,Organic Search
+C00335,Danish Hassan,Male,43,Selangor,Shah Alam,2026-02-09,Silver,Email Campaign
+C00336,Amira Lee,Female,52,Kelantan,Kota Bharu,2025-11-24,Silver,Facebook Ads
+C00337,Siti Ibrahim,Female,27,Kuala Lumpur,Setapak,2026-02-18,Silver,TikTok Ads
+C00338,Danish Lee,Male,33,Kelantan,Tanah Merah,2026-03-10,Bronze,Organic Search
+C00339,Siti Salleh,Female,37,Sarawak,Sibu,2025-01-29,Silver,Email Campaign
+C00340,Hakim Rahman,Male,49,Perak,Ipoh,2025-03-25,Platinum,Referral
+C00341,Nurul Yusof,Female,25,Perak,Tapah,2026-01-11,Gold,Organic Search
+C00342,Amira Ibrahim,Female,54,Sabah,Kota Kinabalu,2025-05-15,Silver,TikTok Ads
+C00343,Farah Yusof,Female,54,Selangor,Subang Jaya,2026-03-16,Bronze,Facebook Ads
+C00344,Siti Wong,Female,50,Kuala Lumpur,Setapak,2026-01-15,Bronze,Marketplace
+C00345,Irfan Rahman,Male,27,Terengganu,Dungun,2025-07-16,Bronze,Marketplace
+C00346,Faiz Lim,Male,33,Kelantan,Kota Bharu,2025-06-14,Silver,Email Campaign
+C00347,Hana Singh,Female,50,Kuala Lumpur,Bangsar,2025-03-03,Silver,Organic Search
+C00348,Irfan Lim,Male,22,Sabah,Kota Kinabalu,2025-07-25,Gold,Marketplace
+C00349,Hana Yusof,Female,41,Kuala Lumpur,Wangsa Maju,2025-01-05,Bronze,Referral
+C00350,Izzati Wong,Female,55,Penang,Bayan Lepas,2025-07-08,Platinum,Marketplace
+C00351,Haziq Zainal,Male,44,Penang,Butterworth,2025-01-04,Bronze,Referral
+C00352,Maisarah Singh,Female,60,Selangor,Klang,2025-01-01,Silver,Email Campaign
+C00353,Siti Hassan,Female,49,Sabah,Kota Kinabalu,2025-08-03,Platinum,Facebook Ads
+C00354,Siti Rahman,Female,41,Penang,Bayan Lepas,2025-12-25,Silver,Email Campaign
+C00355,Syafiq Aziz,Male,43,Sabah,Kota Kinabalu,2025-11-23,Bronze,Referral
+C00356,Azim Tan,Male,34,Perak,Taiping,2025-05-30,Gold,Marketplace
+C00357,Izzati Singh,Female,35,Kedah,Sungai Petani,2025-08-20,Bronze,Facebook Ads
+C00358,Syafiq Aziz,Male,46,Perak,Ipoh,2025-03-26,Silver,TikTok Ads
+C00359,Faiz Yusof,Male,47,Penang,Bayan Lepas,2025-06-07,Bronze,Organic Search
+C00360,Farhan Lim,Male,38,Johor,Johor Bahru,2025-04-21,Bronze,Email Campaign
+C00361,Zul Omar,Male,37,Sabah,Kota Kinabalu,2025-12-13,Bronze,Facebook Ads
+C00362,Azim Singh,Male,53,Terengganu,Kemaman,2026-01-19,Bronze,TikTok Ads
+C00363,Farhan Aziz,Male,32,Selangor,Shah Alam,2026-03-02,Bronze,Marketplace
+C00364,Sofia Tan,Female,22,Kuala Lumpur,Bangsar,2026-04-15,Bronze,Organic Search
+C00365,Wafi Salleh,Male,39,Perak,Ipoh,2026-04-09,Bronze,TikTok Ads
+C00366,Farhan Wong,Male,49,Kelantan,Tanah Merah,2025-07-22,Bronze,Email Campaign
+C00367,Nurul Yusof,Female,35,Penang,Butterworth,2025-05-21,Silver,Facebook Ads
+C00368,Syafiq Wong,Male,36,Sarawak,Kuching,2025-11-28,Silver,Referral
+C00369,Aina Aziz,Female,44,Johor,Kluang,2025-03-12,Bronze,Marketplace
+C00370,Wafi Lim,Male,40,Sabah,Kota Kinabalu,2025-07-15,Silver,Marketplace
+C00371,Sofia Wong,Female,35,Sabah,Sandakan,2025-07-18,Bronze,Instagram Ads
+C00372,Aiman Lim,Male,48,Johor,Johor Bahru,2026-02-19,Silver,Marketplace
+C00373,Farhan Aziz,Male,52,Penang,Butterworth,2025-05-17,Gold,Email Campaign
+C00374,Irfan Wong,Male,29,Kelantan,Pasir Mas,2026-03-06,Bronze,Referral
+C00375,Izzati Lee,Female,40,Kedah,Kulim,2025-01-15,Gold,Referral
+C00376,Syafiq Hassan,Male,29,Terengganu,Kemaman,2025-06-08,Silver,Organic Search
+C00377,Irfan Wong,Male,48,Penang,Georgetown,2025-09-27,Bronze,Referral
+C00378,Farhan Yusof,Male,19,Perak,Tapah,2025-01-31,Bronze,Email Campaign
+C00379,Hakim Singh,Male,41,Sabah,Sandakan,2025-02-07,Silver,Email Campaign
+C00380,Dina Aziz,Female,26,Kedah,Sungai Petani,2025-06-15,Platinum,Email Campaign
+C00381,Maisarah Salleh,Female,53,Kedah,Alor Setar,2025-12-29,Silver,Referral
+C00382,Nadia Tan,Female,37,Sarawak,Kuching,2025-07-13,Silver,Instagram Ads
+C00383,Farhan Lee,Male,54,Selangor,Subang Jaya,2026-03-12,Bronze,Referral
+C00384,Dina Hassan,Female,27,Sarawak,Kuching,2025-09-12,Bronze,Organic Search
+C00385,Zul Yusof,Male,60,Perak,Ipoh,2026-02-25,Silver,Instagram Ads
+C00386,Aina Ibrahim,Female,22,Penang,Butterworth,2025-12-21,Silver,Marketplace
+C00387,Haziq Rahman,Male,44,Selangor,Subang Jaya,2025-08-13,Platinum,TikTok Ads
+C00388,Amira Yusof,Female,48,Sabah,Sandakan,2025-02-21,Gold,Referral
+C00389,Farhan Salleh,Male,19,Kuala Lumpur,Cheras,2025-05-31,Bronze,Organic Search
+C00390,Zul Ismail,Male,22,Kelantan,Kota Bharu,2026-01-10,Silver,Organic Search
+C00391,Dina Wong,Female,45,Terengganu,Kemaman,2025-01-16,Gold,Facebook Ads
+C00392,Nurul Rahman,Female,30,Kuala Lumpur,Bangsar,2025-04-16,Silver,Referral
+C00393,Maisarah Ibrahim,Female,21,Johor,Muar,2025-02-19,Silver,Referral
+C00394,Nurul Rahman,Female,23,Kedah,Alor Setar,2025-08-07,Bronze,Email Campaign
+C00395,Nadia Aziz,Female,58,Selangor,Petaling Jaya,2025-03-29,Bronze,Organic Search
+C00396,Siti Ibrahim,Female,60,Kelantan,Pasir Mas,2025-09-08,Bronze,Email Campaign
+C00397,Nurul Yusof,Female,46,Kelantan,Pasir Mas,2025-04-06,Bronze,TikTok Ads
+C00398,Hana Hassan,Female,60,Johor,Johor Bahru,2025-03-19,Bronze,Email Campaign
+C00399,Farah Omar,Female,21,Sarawak,Kuching,2025-10-11,Gold,Marketplace
+C00400,Farah Tan,Female,33,Terengganu,Kemaman,2026-03-28,Silver,Organic Search
+C00401,Izzati Rahman,Female,51,Sabah,Tawau,2026-04-07,Gold,Email Campaign
+C00402,Hakim Lim,Male,31,Terengganu,Kuala Terengganu,2025-03-27,Gold,Facebook Ads
+C00403,Azim Aziz,Male,58,Kelantan,Kota Bharu,2026-02-26,Bronze,Referral
+C00404,Sofia Lee,Female,53,Kuala Lumpur,Cheras,2025-07-18,Silver,Instagram Ads
+C00405,Farah Salleh,Female,44,Selangor,Subang Jaya,2025-02-27,Bronze,Referral
+C00406,Hakim Wong,Male,52,Kuala Lumpur,Bangsar,2026-03-21,Gold,TikTok Ads
+C00407,Amira Tan,Female,48,Terengganu,Kemaman,2025-11-08,Bronze,Instagram Ads
+C00408,Nurul Wong,Female,43,Sarawak,Sibu,2025-12-22,Bronze,Instagram Ads
+C00409,Aiman Lee,Male,41,Terengganu,Dungun,2026-04-05,Bronze,Marketplace
+C00410,Hana Ibrahim,Female,24,Terengganu,Kemaman,2025-12-17,Platinum,Facebook Ads
+C00411,Danish Lee,Male,44,Terengganu,Dungun,2025-05-18,Silver,Organic Search
+C00412,Rizal Hassan,Male,51,Kelantan,Tanah Merah,2025-09-06,Gold,Marketplace
+C00413,Faiz Lim,Male,50,Perak,Ipoh,2025-06-09,Silver,Marketplace
+C00414,Farhan Hassan,Male,20,Penang,Georgetown,2025-05-08,Silver,Instagram Ads
+C00415,Danish Yusof,Male,58,Terengganu,Kemaman,2025-07-23,Gold,Email Campaign
+C00416,Irfan Yusof,Male,29,Terengganu,Kemaman,2025-08-17,Platinum,TikTok Ads
+C00417,Sofia Ismail,Female,19,Johor,Johor Bahru,2025-05-26,Silver,Facebook Ads
+C00418,Irfan Tan,Male,59,Penang,Butterworth,2025-05-18,Silver,Organic Search
+C00419,Rizal Ismail,Male,34,Perak,Ipoh,2025-04-25,Silver,Instagram Ads
+C00420,Amira Omar,Female,31,Kedah,Sungai Petani,2025-05-10,Silver,Email Campaign
+C00421,Dina Aziz,Female,59,Selangor,Klang,2025-10-15,Silver,Instagram Ads
+C00422,Maisarah Aziz,Female,35,Terengganu,Kuala Terengganu,2025-06-22,Silver,Marketplace
+C00423,Hana Tan,Female,51,Johor,Muar,2025-03-18,Gold,Organic Search
+C00424,Maisarah Yusof,Female,49,Perak,Ipoh,2025-12-02,Platinum,Instagram Ads
+C00425,Amira Omar,Female,32,Selangor,Petaling Jaya,2025-06-25,Silver,Email Campaign
+C00426,Maisarah Yusof,Female,28,Sabah,Sandakan,2026-03-09,Gold,Referral
+C00427,Danish Aziz,Male,34,Terengganu,Kuala Terengganu,2026-01-15,Silver,Referral
+C00428,Wafi Yusof,Male,32,Kuala Lumpur,Setapak,2025-07-01,Silver,Instagram Ads
+C00429,Sofia Yusof,Female,25,Johor,Batu Pahat,2025-08-26,Silver,Marketplace
+C00430,Rizal Hassan,Male,42,Sabah,Kota Kinabalu,2026-03-21,Silver,TikTok Ads
+C00431,Farhan Ismail,Male,54,Penang,Bukit Mertajam,2025-07-29,Gold,TikTok Ads
+C00432,Zul Singh,Male,39,Perak,Ipoh,2025-09-07,Silver,Facebook Ads
+C00433,Maisarah Rahman,Female,31,Selangor,Subang Jaya,2025-05-21,Gold,Facebook Ads
+C00434,Rizal Lim,Male,45,Kuala Lumpur,Setapak,2025-11-11,Silver,TikTok Ads
+C00435,Aisyah Omar,Female,30,Selangor,Shah Alam,2025-10-01,Silver,Organic Search
+C00436,Farah Hassan,Female,33,Selangor,Shah Alam,2025-11-17,Bronze,Instagram Ads
+C00437,Nurul Aziz,Female,37,Kelantan,Tanah Merah,2025-10-29,Bronze,Marketplace
+C00438,Danish Ibrahim,Male,56,Terengganu,Kemaman,2025-09-24,Silver,TikTok Ads
+C00439,Zul Salleh,Male,43,Kedah,Alor Setar,2025-03-26,Bronze,Facebook Ads
+C00440,Irfan Lee,Male,41,Selangor,Petaling Jaya,2025-03-05,Silver,Marketplace
+C00441,Azim Tan,Male,21,Johor,Johor Bahru,2025-11-01,Silver,Email Campaign
+C00442,Aiman Lee,Male,42,Kuala Lumpur,Wangsa Maju,2025-08-16,Bronze,Instagram Ads
+C00443,Izzati Ismail,Female,44,Penang,Georgetown,2025-06-04,Silver,Email Campaign
+C00444,Dina Wong,Female,24,Perak,Kuala Kangsar,2026-03-02,Silver,Referral
+C00445,Danish Aziz,Male,56,Kuala Lumpur,Wangsa Maju,2025-04-12,Bronze,Instagram Ads
+C00446,Zul Lee,Male,20,Kelantan,Pasir Mas,2025-03-24,Silver,Facebook Ads
+C00447,Sofia Hassan,Female,23,Selangor,Shah Alam,2025-12-10,Gold,Marketplace
+C00448,Nurul Aziz,Female,24,Sabah,Kota Kinabalu,2026-01-06,Gold,Email Campaign
+C00449,Rizal Ibrahim,Male,24,Johor,Kluang,2025-01-26,Gold,Marketplace
+C00450,Danish Yusof,Male,25,Kedah,Sungai Petani,2026-01-14,Bronze,Marketplace
+C00451,Aiman Singh,Male,40,Perak,Taiping,2025-06-18,Gold,Referral
+C00452,Izzati Aziz,Female,25,Kedah,Sungai Petani,2025-04-04,Silver,TikTok Ads
+C00453,Amira Lee,Female,28,Terengganu,Dungun,2025-11-29,Bronze,Email Campaign
+C00454,Farhan Aziz,Male,54,Kelantan,Tanah Merah,2025-09-05,Silver,Facebook Ads
+C00455,Sofia Wong,Female,49,Selangor,Petaling Jaya,2025-09-05,Bronze,TikTok Ads
+C00456,Aina Aziz,Female,51,Johor,Batu Pahat,2025-01-07,Gold,Referral
+C00457,Wafi Singh,Male,57,Kedah,Kulim,2025-09-25,Bronze,Email Campaign
+C00458,Rizal Yusof,Male,53,Kelantan,Kota Bharu,2026-03-06,Gold,Referral
+C00459,Aiman Tan,Male,49,Perak,Kuala Kangsar,2026-03-13,Gold,Organic Search
+C00460,Sofia Hassan,Female,50,Kedah,Sungai Petani,2025-01-26,Bronze,Email Campaign
+C00461,Amira Singh,Female,46,Penang,Georgetown,2025-08-24,Gold,TikTok Ads
+C00462,Rizal Salleh,Male,59,Kedah,Alor Setar,2025-09-12,Bronze,TikTok Ads
+C00463,Aina Zainal,Female,23,Sabah,Kota Kinabalu,2026-02-27,Gold,Referral
+C00464,Farah Zainal,Female,41,Penang,Bayan Lepas,2025-06-24,Gold,Marketplace
+C00465,Rizal Yusof,Male,48,Sabah,Tawau,2025-11-04,Silver,Instagram Ads
+C00466,Siti Aziz,Female,40,Penang,Georgetown,2025-06-24,Gold,Marketplace
+C00467,Farah Zainal,Female,20,Kedah,Kulim,2025-02-24,Gold,TikTok Ads
+C00468,Haziq Lee,Male,57,Kelantan,Kota Bharu,2025-05-11,Bronze,Organic Search
+C00469,Nadia Salleh,Female,44,Penang,Bukit Mertajam,2025-02-25,Bronze,Email Campaign
+C00470,Rizal Salleh,Male,49,Sarawak,Sibu,2025-03-10,Bronze,Email Campaign
+C00471,Faiz Omar,Male,29,Sarawak,Miri,2025-09-18,Silver,Facebook Ads
+C00472,Hakim Omar,Male,38,Sarawak,Sibu,2026-03-28,Silver,TikTok Ads
+C00473,Dina Lee,Female,39,Penang,Bukit Mertajam,2025-07-23,Platinum,TikTok Ads
+C00474,Farhan Omar,Male,50,Sarawak,Sibu,2026-03-30,Bronze,Email Campaign
+C00475,Izzati Lee,Female,30,Sabah,Tawau,2025-04-22,Bronze,Email Campaign
+C00476,Maisarah Yusof,Female,52,Perak,Taiping,2025-09-15,Silver,Instagram Ads
+C00477,Zul Zainal,Male,60,Terengganu,Kemaman,2025-10-20,Silver,Email Campaign
+C00478,Amira Lim,Female,42,Selangor,Shah Alam,2025-01-13,Bronze,Email Campaign
+C00479,Irfan Ibrahim,Male,34,Perak,Tapah,2025-12-16,Bronze,Organic Search
+C00480,Nadia Lim,Female,46,Sabah,Kota Kinabalu,2025-07-03,Bronze,Marketplace
+C00481,Haziq Tan,Male,50,Sabah,Sandakan,2025-05-02,Gold,Marketplace
+C00482,Izzati Tan,Female,44,Selangor,Subang Jaya,2025-07-18,Platinum,Email Campaign
+C00483,Farah Rahman,Female,57,Selangor,Klang,2025-04-14,Gold,Marketplace
+C00484,Nadia Tan,Female,56,Kedah,Kulim,2025-10-07,Bronze,Email Campaign
+C00485,Danish Salleh,Male,29,Perak,Ipoh,2025-04-06,Silver,Organic Search
+C00486,Aina Omar,Female,28,Johor,Batu Pahat,2025-03-08,Silver,Instagram Ads
+C00487,Zul Salleh,Male,38,Perak,Ipoh,2025-03-20,Silver,Marketplace
+C00488,Aisyah Lim,Female,22,Sarawak,Sibu,2025-07-03,Gold,Instagram Ads
+C00489,Farhan Zainal,Male,52,Kuala Lumpur,Setapak,2025-08-01,Silver,Organic Search
+C00490,Nadia Hassan,Female,36,Kedah,Sungai Petani,2025-07-04,Bronze,Marketplace
+C00491,Farah Singh,Female,40,Selangor,Shah Alam,2025-12-09,Silver,Email Campaign
+C00492,Aiman Tan,Male,25,Kedah,Sungai Petani,2026-04-14,Silver,Referral
+C00493,Aina Zainal,Female,50,Kedah,Kulim,2026-02-16,Silver,Organic Search
+C00494,Maisarah Hassan,Female,24,Kedah,Kulim,2025-02-12,Bronze,Marketplace
+C00495,Wafi Aziz,Male,45,Penang,Butterworth,2026-03-19,Gold,Facebook Ads
+C00496,Maisarah Singh,Female,47,Kuala Lumpur,Setapak,2025-01-13,Silver,Organic Search
+C00497,Hakim Rahman,Male,22,Perak,Tapah,2025-10-13,Silver,Facebook Ads
+C00498,Amira Omar,Female,45,Terengganu,Kemaman,2025-07-27,Bronze,TikTok Ads
+C00499,Faiz Rahman,Male,55,Sarawak,Kuching,2026-01-23,Bronze,Marketplace
+C00500,Zul Zainal,Male,37,Kuala Lumpur,Bangsar,2026-02-07,Silver,Instagram Ads
