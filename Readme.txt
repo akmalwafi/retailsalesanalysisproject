@@ -27,6 +27,3 @@ CSV Dataset → MongoDB → RapidMiner Data Preparation → Power BI Dashboard
 - Online Banking was the most used payment method.
 - Sales increased strongly around March 2026.
 - AlphaTech Keyboard was the top revenue-generating product.
-
-## Screenshots
-Insert dashboard screenshot here.
